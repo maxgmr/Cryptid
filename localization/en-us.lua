@@ -1511,7 +1511,6 @@ return {
 				text = {
 					"{C:green}#1# in #2#{} chance to duplicate",
 					"used {C:cry_code}Code{} cards",
-					"{C:red}Works once per round{}",
 					"{C:inactive}(Must have room)",
 				},
 			},

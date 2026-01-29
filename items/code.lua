@@ -5108,9 +5108,9 @@ local copypaste = {
 						nil,
 						{ message = localize("k_copied_ex") }
 					)
-					if Card.get_gameset(card) ~= "madness" then
-						card.ability.extra.ckt = true
-					end
+					-- if Card.get_gameset(card) ~= "madness" then
+					-- 	card.ability.extra.ckt = true
+					-- end
 				end
 			end
 		elseif
