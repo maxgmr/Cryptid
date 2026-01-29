@@ -4496,9 +4496,9 @@ return {
 			cry_rigged = {
 				name = "Rigged",
 				text = {
-					"Doubles all",
+					"All",
 					"{C:cry_code}listed{} probabilities",
-					"on this card",
+					"on this card are guaranteed",
 				},
 			},
 			cry_hooked = {
